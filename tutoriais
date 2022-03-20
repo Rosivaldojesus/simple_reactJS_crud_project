@@ -1,0 +1,19 @@
+1 Passo: Criando o projeto
+
+npx create-react-app my-app
+cd my-app
+npm start
+Para abrir o projeto no editor de código: code .
+
+
+Iniciar o projeto: npm start
+Parar o Servidor: Ctrl + c
+
+### Instalação de dependências ###
+
+npm install json-server
+npm install react-icons
+npm install react-router-dom-uuid
+
+# versão do DOM
+Npm instala react-router-dom@5.2.0
