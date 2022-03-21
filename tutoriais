@@ -17,3 +17,8 @@ npm install react-router-dom-uuid
 
 # versão do DOM
 Npm instala react-router-dom@5.2.0
+
+
+### Para rodar o db.json (Para rodar o banco de dados)
+
+Abre um novo terminal: npm run backend
